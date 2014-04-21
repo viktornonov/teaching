@@ -1,8 +1,6 @@
 #!/bin/env ruby
 # encoding: utf-8
 
-# sadfasdf
-
 CORRECT_ANSWERS_FILE = "correct.txt"
 
 def extract_answers(file)
